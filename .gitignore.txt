@@ -1,0 +1,15 @@
+# Dossiers générés par Python ou PyInstaller
+__pycache__/
+dist/
+build/
+
+# Fichiers générés par PyInstaller
+*.spec
+
+# Logs ou fichiers temporaires
+error_log.txt
+output/
+
+# Autres fichiers système (Windows, macOS, etc.)
+.DS_Store
+Thumbs.db
